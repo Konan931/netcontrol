@@ -1,0 +1,14 @@
+# Python caches and test artefacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local configuration; keep the documented example
+scripts/netcontrol.toml
+
+# Local environments and editor files
+.venv/
+venv/
+.DS_Store
